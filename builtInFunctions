@@ -1,0 +1,6 @@
+
+Built in functions in java
+
+	System.out.println()
+	"red".equals("blue")
+	Math.pow(base, exponent)
