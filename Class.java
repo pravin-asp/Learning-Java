@@ -9,5 +9,10 @@ public class Class{
 		
 		double triangleBArea = triangleB.findArea();
 		System.out.println(triangleBArea);
+		
+		System.out.println(triangleA.sideLenOne);
+		System.out.println(triangleB.base);
+		
+		System.out.println(Triangle.numOfSides);
 	}
 }
