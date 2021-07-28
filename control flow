@@ -12,3 +12,16 @@ Operators:
 	<= - less than or equal
 	>= - greater than or equal
 	!= = not equal to 
+	
+scope of variable is within the curly braces only
+
+Loops:
+	similar to if condition but runs as many times we want.
+	
+while loop
+	while loop
+	condition checking
+	if true 
+	goes inside 
+	else
+	loop comes out
