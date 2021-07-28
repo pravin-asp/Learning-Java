@@ -1,0 +1,16 @@
+Data types in java
+
+-> Primitive data types 
+		most basic data types
+		boolean
+		int 
+		double
+		char
+
+-> Reference data types 
+
+
+boolean - true or false value
+int - represents a whole number
+double - represents decimal numbers
+char - represents a single letter or symbol
