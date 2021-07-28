@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class QA{
 	public static void main(String[] args){
 		String q = "What is the capital city of Indai?";
-		String c1 = "Chennai";
-		String c2 = "Mumbai";
-		String c3 = "Delhi";
+		String c1 = "chennai";
+		String c2 = "mumbai";
+		String c3 = "newdelhi";
 		
 		String ca = c3;
 		
@@ -16,7 +16,7 @@ public class QA{
 		System.out.println("Enter your answer:");
 		String ans = input.next();
 		
-		if(ans.equals(ca)){
+		if(ca.equals(ans.toLowerCase())){
 			System.out.println("Congrats");
 		}
 		else{
