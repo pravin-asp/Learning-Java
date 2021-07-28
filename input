@@ -1,0 +1,5 @@
+Input and Output
+
+import java.util.Scanner;
+	Scanner - special data type
+Scanner input = new Scanner(System.in)
