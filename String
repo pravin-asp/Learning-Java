@@ -1,0 +1,19 @@
+String
+	a sequence of ordered characters
+	
+String value: "String"
+String variable : string myFavoriteWord = "String"
+
+a string is built out of characters
+
+"String" - 0 S 
+			1 t
+			2 r
+			3 i 
+			4 n
+			5 g
+			
+Concating the strings 
+	combining 2 or more stirngs
+	
+	
