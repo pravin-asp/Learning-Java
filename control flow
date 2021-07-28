@@ -1,0 +1,14 @@
+Control Flow
+	a program's control flow is the order
+	in which the program's instructions or code
+	statements are executed
+	
+	if -> condition
+	
+Operators:
+	< - less than
+	> - greater than 
+	== - equal to 
+	<= - less than or equal
+	>= - greater than or equal
+	!= = not equal to 
