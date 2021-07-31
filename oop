@@ -12,6 +12,10 @@ class - a blue print containing a set of
 		an item
 		
 		
-Emcapsulation - binding state and behavior together into single unit
+Encapsulation - binding state and behavior together into single unit
 
+Acces Modifier - encapsulation is achieved
+		Private - only visible in the class that the member lives in
+		Protected - visible to the package and all subclasses
+		Public - accessible every where in the program
 		
