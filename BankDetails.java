@@ -6,5 +6,6 @@ public class BankDetails{
 		o1.withDraw(300);
 		System.out.println(o1.getBalance());
 		o1.withDraw(3000);
+		//System.out.println(o1.owner);
 	}
 }
