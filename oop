@@ -38,3 +38,5 @@ Inheritance - code is organized through class
 				- Multilevel inheritance
 				- Multiple inheritance
 				- hybrid inheritance
+				
+				extends - key word for inheritance
