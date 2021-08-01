@@ -40,3 +40,16 @@ Inheritance - code is organized through class
 				- hybrid inheritance
 				
 				extends - key word for inheritance
+				
+		Polymorphism
+			the ability of an object or function ot 
+				to take many different forms.
+				
+			types:
+				run time polymorphism
+				compile time polymorphism
+				
+			more reusabile codes are made
+			
+Abstraction
+	helps us hide implementation
