@@ -56,3 +56,10 @@ Abstraction
 	
 	abstract classes 
 	interfaces 
+	
+	abstract classes used ot read a files in java
+	
+Interface - is a set of method signatures for
+		to-be-implemented functionally
+		
+	implements - key word used for interface
