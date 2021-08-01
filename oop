@@ -53,3 +53,6 @@ Inheritance - code is organized through class
 			
 Abstraction
 	helps us hide implementation
+	
+	abstract classes 
+	interfaces 
